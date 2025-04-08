@@ -7,7 +7,7 @@ plugins {
 // version = '1.0-SNAPSHOT'
 
 android {
-    namespace 'com.lucasjosino.on_audio_query_android'
+    namespace 'com.lucasjosino.on_audio_query'
     compileSdk = 33
 
     defaultConfig {
